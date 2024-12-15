@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @omerb-dev
+- 👀 I’m interested in development
+- 🌱 I’m currently learning `GO`
+- 💞️ I’m looking to collaborate on creating new projects
+- 📫 You can reach me at mail `omerbolatan@gmail.com`
